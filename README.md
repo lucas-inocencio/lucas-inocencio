@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api?username=lucas-inocencio&show_icons=true&theme=dark#gh-dark-mode-only" />
 </a>
 <a href="https://github.com/lucas-inocencio/convoychat">
-  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&theme=dark" />
+  <img align="center" img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&theme=dark&hide=jupyter%20notebook">
 </a>
 
 <div style="display: inline_block"><br>
