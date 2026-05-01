@@ -64,10 +64,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img width="100%" src="./profile/stats.svg" alt="GitHub stats" />
+      <img width="100%" height="220" src="./profile/stats.svg" alt="GitHub stats" />
     </td>
     <td width="50%" valign="top">
-      <img width="100%" src="./profile/top-langs.svg" alt="Top languages" />
+      <img width="100%" height="220" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-inocencio&theme=vue" alt="Profile details" />
     </td>
   </tr>
 </table>
