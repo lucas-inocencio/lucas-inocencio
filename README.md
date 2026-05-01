@@ -61,10 +61,28 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=lucas-inocencio&show_icons=true&theme=default&hide_border=true&title_color=0F766E&icon_color=0F766E&text_color=1F2937&bg_color=ffffff" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&hide_border=true&title_color=0F766E&text_color=1F2937&bg_color=ffffff" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lucas-inocencio&theme=vue" alt="Profile details" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lucas-inocencio&theme=vue" alt="GitHub stats" />
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=lucas-inocencio&theme=default&hide_border=true" alt="GitHub streak" />
+    </td>
+  </tr>
+</table>
+
+## Connect
+
+- LinkedIn: [lucas-inocencio](https://www.linkedin.com/in/lucas-inocencio/)
+- Email: [lucas.inocenciod@gmail.com](mailto:lucas.inocenciod@gmail.com)
 
 ## Current Direction
 
