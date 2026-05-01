@@ -62,8 +62,12 @@
 ## GitHub Stats
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-inocencio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
+</p>
+
+<p align="center">
+  <img height="180em" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
 </p>
 
 ## Connect
