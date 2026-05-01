@@ -61,14 +61,16 @@
 
 ## GitHub Stats
 
-<p align="center">
-  <img src="profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile Details" />
-</p>
-
-<p align="center">
-  <img height="180em" src="profile-summary-card-output/tokyonight/3-stats.svg" alt="GitHub Stats" />
-  <img height="180em" src="profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Top Languages" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" height="220" src="./profile/stats.svg" alt="GitHub stats" />
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" height="220" src="./profile/top-langs.svg" alt="Top languages" />
+    </td>
+  </tr>
+</table>
 
 ## Connect
 
