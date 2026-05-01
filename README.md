@@ -61,16 +61,10 @@
 
 ## GitHub Stats
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <img width="100%" src="./profile/stats.svg" alt="GitHub stats" />
-    </td>
-    <td width="50%" valign="top">
-      <img width="100%" src="./profile/top-langs.svg" alt="Top languages" />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucas-inocencio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucas-inocencio&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&count_private=true" alt="Top Languages" />
+</p>
 
 ## Connect
 
