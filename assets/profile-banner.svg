@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Lucas Inocencio</title>
-  <desc id="description">Data Engineering Intern and Computer Engineering Student. A navy and teal banner with a connected data pipeline illustration.</desc>
+  <title id="title">Data engineering</title>
+  <desc id="description">A navy and teal banner with a connected data pipeline illustration.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
       <stop offset="0" stop-color="#0b1220" />
@@ -17,12 +17,9 @@
   <rect width="1200" height="360" rx="24" fill="url(#background)" />
   <rect width="1200" height="360" rx="24" fill="url(#grid)" />
   <path d="M920 0H1176Q1200 0 1200 24V336Q1200 360 1176 360H1030L850 180Z" fill="#5eead4" opacity="0.035" />
-  <rect x="60" y="65" width="48" height="4" rx="2" fill="url(#accent)" />
+  <rect x="60" y="112" width="48" height="4" rx="2" fill="url(#accent)" />
   <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="60" y="110" fill="#5eead4" font-size="17" font-weight="600" letter-spacing="4">DATA / CODE / CURIOSITY</text>
-    <text x="56" y="192" fill="#f8fafc" font-size="72" font-weight="700" letter-spacing="-2">Lucas Inocencio</text>
-    <text x="60" y="243" fill="#e2e8f0" font-size="27" font-weight="600">Data Engineering Intern</text>
-    <text x="60" y="282" fill="#a9bfce" font-size="25">Computer Engineering Student</text>
+    <text x="56" y="211" fill="#f8fafc" font-size="72" font-weight="700" letter-spacing="-2">Data engineering</text>
   </g>
   <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
     <path d="M853 140H903Q920 140 920 157V203Q920 220 937 220H987" opacity="0.7" />

@@ -1,61 +1,51 @@
-﻿<p align="center">
-  <img src="./assets/profile-banner.svg" width="100%" alt="Lucas Inocencio — Data Engineering Intern and Computer Engineering Student" />
-</p>
+# Lucas Inocencio
 
-<p align="center">
-  Building reliable pipelines. Making data easier to trust.
-</p>
+![Data engineering banner with a connected pipeline illustration](assets/profile-banner.svg)
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/lucas-inocencio/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-2563EB?style=for-the-badge" alt="Connect with Lucas on LinkedIn" /></a>
-  <a href="mailto:lucas.inocenciod@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-0F766E?style=for-the-badge" alt="Email Lucas" /></a>
-</p>
+## About me
 
-## A little about me
+I'm **Lucas Inocencio**, a **data engineering intern** and **computer engineering student**. I enjoy turning raw data into useful information through reliable pipelines, clear models, and practical automation.
 
-I'm **Lucas**, a **Data Engineering Intern** and **Computer Engineering Student**. I enjoy turning raw data into useful information through reliable pipelines, clear models, and practical automation.
+- **Building** — SQL workflows, ETL/ELT pipelines, and data validation.
+- **Learning** — Cloud data platforms, orchestration, and warehouse modeling.
+- **I care about** — Data quality, readable code, and documentation that helps a team work together.
 
-- **Building:** SQL workflows, ETL/ELT pipelines, and data validation.
-- **Learning:** cloud data platforms, orchestration, and warehouse modeling.
-- **I care about:** data quality, readable code, and documentation that helps a team work together.
+## Toolbox
 
-## My toolbox
+- **Languages and analysis** — Python, SQL, and pandas.
+- **Data pipelines** — Apache Spark, Apache Airflow, and ETL/ELT.
+- **Analytics and collaboration** — Power BI, Git, and technical documentation.
 
-| Area | Tools & concepts |
-| :--- | :--- |
-| **Languages & analysis** | Python · SQL · Pandas |
-| **Data pipelines** | Apache Spark · Airflow · ETL / ELT |
-| **Analytics & collaboration** | Power BI · Git · Technical documentation |
+## Contact
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-025E8C?style=flat-square&logo=postgresql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" alt="Apache Spark" />
-  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Airflow" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logoColor=black" alt="Power BI" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-</p>
+[LinkedIn](https://www.linkedin.com/in/lucas-inocencio/) · [Email](mailto:lucas.inocenciod@gmail.com)
 
-## What I'm working toward
+<details>
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
-      <h3>Reliable data, end to end</h3>
-      <p>Strengthening ingestion, transformation, and validation workflows, with an emphasis on reproducibility and data quality.</p>
-    </td>
-    <td valign="top" width="50%">
-      <h3>A stronger engineering foundation</h3>
-      <p>Connecting my Computer Engineering studies with cloud fundamentals, data modeling, and maintainable data systems.</p>
-    </td>
-  </tr>
-</table>
+<summary>Maintaining this repository</summary>
 
----
+### Stack
 
-<p align="center">
-  <strong>Let's talk data, engineering, and things worth building.</strong><br />
-  <a href="https://www.linkedin.com/in/lucas-inocêncio/">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:lucas.inocenciod@gmail.com">lucas.inocenciod@gmail.com</a>
-</p>
+This static profile uses GitHub Flavored Markdown and a local SVG banner. GitHub handles rendering. There are no dependencies to install, build commands, or services to run.
+
+### Local preview
+
+Copy the HTTPS clone URL from the repository’s **Code** menu. Replace `URL` with the copied address and run these commands.
+
+```sh
+git clone URL
+cd lucas-inocencio
+git switch dev
+```
+
+Open `README.md` in a Markdown preview that supports local images. For GitHub's rendering, use the README file editor's **Preview** tab or view the rendered file on the branch after pushing.
+
+### Files and publishing
+
+- `README.md` is the profile content. Update role and contact information here.
+- [assets/profile-banner.svg](assets/profile-banner.svg) is the editable banner source and the image GitHub displays. Edit it directly with a text or SVG editor.
+- [LICENSE](LICENSE) contains the MIT license.
+
+Review changes on `dev`. GitHub displays the profile README from the default branch, `main`.
+
+</details>
