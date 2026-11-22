@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title description">
-  <title id="title">Data engineering</title>
+  <title id="title">Data Engineering</title>
   <desc id="description">A navy and teal banner with a connected data pipeline illustration.</desc>
   <defs>
     <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
@@ -10,6 +10,10 @@
       <stop offset="0" stop-color="#5eead4" />
       <stop offset="1" stop-color="#60a5fa" />
     </linearGradient>
+    <linearGradient id="nodeGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#152c3e" />
+      <stop offset="1" stop-color="#0e1f2c" />
+    </linearGradient>
     <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse">
       <circle cx="1" cy="1" r="1" fill="#94a3b8" opacity="0.12" />
     </pattern>
@@ -17,30 +21,56 @@
   <rect width="1200" height="360" rx="24" fill="url(#background)" />
   <rect width="1200" height="360" rx="24" fill="url(#grid)" />
   <path d="M920 0H1176Q1200 0 1200 24V336Q1200 360 1176 360H1030L850 180Z" fill="#5eead4" opacity="0.035" />
-  <rect x="60" y="112" width="48" height="4" rx="2" fill="url(#accent)" />
-  <g font-family="Segoe UI, Arial, sans-serif">
-    <text x="56" y="211" fill="#f8fafc" font-size="72" font-weight="700" letter-spacing="-2">Data engineering</text>
+  
+  <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+    <!-- Category pill -->
+    <rect x="60" y="82" width="176" height="28" rx="14" fill="#5eead4" fill-opacity="0.08" stroke="#5eead4" stroke-opacity="0.35" stroke-width="1.2" />
+    <circle cx="76" cy="96" r="4" fill="#5eead4" />
+    <text x="88" y="100.5" fill="#5eead4" font-size="11.5" font-weight="700" letter-spacing="1.5">DATA &amp; PIPELINES</text>
+
+    <!-- Main title -->
+    <text x="56" y="185" fill="#f8fafc" font-size="72" font-weight="800" letter-spacing="-2">Data Engineering</text>
+
+    <!-- Subtitle -->
+    <text x="58" y="235" fill="#94a3b8" font-size="20" font-weight="400" letter-spacing="0.3">Reliable Pipelines &#8226; Clear Models &#8226; Practical Automation</text>
   </g>
+
+  <!-- Accent underline -->
+  <rect x="60" y="272" width="54" height="4" rx="2" fill="url(#accent)" />
+
+  <!-- Pipeline connections -->
   <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
-    <path d="M853 140H903Q920 140 920 157V203Q920 220 937 220H987" opacity="0.7" />
-    <path d="M853 260H882Q899 260 899 243V237Q899 220 916 220" opacity="0.7" />
-    <path d="M1059 220H1091Q1108 220 1108 203V112" opacity="0.7" />
+    <path d="M853 140H903Q920 140 920 157V203Q920 220 937 220H987" opacity="0.75" />
+    <path d="M853 260H882Q899 260 899 243V237Q899 220 916 220" opacity="0.75" />
+    <path d="M1059 220H1091Q1108 220 1108 203V112" opacity="0.75" />
   </g>
-  <g stroke="#345164" stroke-width="1.5" fill="#112536">
+
+  <!-- Pipeline nodes -->
+  <g stroke="#345164" stroke-width="1.5" fill="url(#nodeGrad)">
     <rect x="789" y="108" width="64" height="64" rx="16" />
     <rect x="789" y="228" width="64" height="64" rx="16" />
     <rect x="987" y="184" width="72" height="72" rx="18" />
     <rect x="1076" y="48" width="64" height="64" rx="16" />
   </g>
+
+  <!-- Node Icons -->
   <g fill="none" stroke="#5eead4" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Database Node -->
     <ellipse cx="821" cy="130" rx="14" ry="6" />
     <path d="M807 130V149C807 157 835 157 835 149V130M807 140C807 148 835 148 835 140" />
+    <!-- Transformation Node -->
     <path d="M814 250L804 260L814 270M828 250L838 260L828 270" />
     <path d="M822 247L818 273" opacity="0.6" />
+    <!-- Engine Node -->
     <path d="M1010 211L1019 220L1010 229M1027 211L1036 220L1027 229" />
+    <!-- Analytics Output Node -->
     <path d="M1094 92V82M1108 92V68M1122 92V75" />
   </g>
-  <circle cx="920" cy="181" r="4" fill="#60a5fa" />
-  <circle cx="1108" cy="150" r="4" fill="#5eead4" />
-  <rect x="60" y="332" width="1080" height="1" fill="url(#accent)" opacity="0.2" />
+
+  <!-- Glowing flow dots -->
+  <circle cx="920" cy="181" r="4.5" fill="#60a5fa" />
+  <circle cx="1108" cy="150" r="4.5" fill="#5eead4" />
+
+  <!-- Subtle bottom border line -->
+  <rect x="60" y="332" width="1080" height="1" fill="url(#accent)" opacity="0.25" />
 </svg>
