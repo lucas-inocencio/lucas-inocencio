@@ -24,19 +24,19 @@
   
   <g font-family="Segoe UI, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
     <!-- Category pill -->
-    <rect x="60" y="82" width="176" height="28" rx="14" fill="#5eead4" fill-opacity="0.08" stroke="#5eead4" stroke-opacity="0.35" stroke-width="1.2" />
-    <circle cx="76" cy="96" r="4" fill="#5eead4" />
-    <text x="88" y="100.5" fill="#5eead4" font-size="11.5" font-weight="700" letter-spacing="1.5">DATA &amp; PIPELINES</text>
+    <rect x="64" y="94" width="180" height="28" rx="14" fill="#5eead4" fill-opacity="0.08" stroke="#5eead4" stroke-opacity="0.35" stroke-width="1.2" />
+    <circle cx="80" cy="108" r="4" fill="#5eead4" />
+    <text x="92" y="112.5" fill="#5eead4" font-size="11.5" font-weight="700" letter-spacing="1.5">DATA &amp; PIPELINES</text>
 
     <!-- Main title -->
-    <text x="56" y="185" fill="#f8fafc" font-size="72" font-weight="800" letter-spacing="-2">Data Engineering</text>
+    <text x="64" y="182" fill="#f8fafc" font-size="70" font-weight="800" letter-spacing="-1.5">Data Engineering</text>
 
     <!-- Subtitle -->
-    <text x="58" y="235" fill="#94a3b8" font-size="20" font-weight="400" letter-spacing="0.3">Reliable Pipelines &#8226; Clear Models &#8226; Practical Automation</text>
+    <text x="64" y="228" fill="#94a3b8" font-size="19" font-weight="400" letter-spacing="0.3">Reliable Pipelines &#8226; Clear Models &#8226; Practical Automation</text>
   </g>
 
   <!-- Accent underline -->
-  <rect x="60" y="272" width="54" height="4" rx="2" fill="url(#accent)" />
+  <rect x="64" y="254" width="56" height="4" rx="2" fill="url(#accent)" />
 
   <!-- Pipeline connections -->
   <g fill="none" stroke="url(#accent)" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
@@ -72,5 +72,5 @@
   <circle cx="1108" cy="150" r="4.5" fill="#5eead4" />
 
   <!-- Subtle bottom border line -->
-  <rect x="60" y="332" width="1080" height="1" fill="url(#accent)" opacity="0.25" />
+  <rect x="64" y="332" width="1072" height="1" fill="url(#accent)" opacity="0.25" />
 </svg>
